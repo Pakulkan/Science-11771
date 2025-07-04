@@ -13,11 +13,13 @@
 }
 
 body {
+    background-image: url("Images/PP-001.png");
     background-color: lightblue;
     color: black;
+    background-size: 3000px;
 }
 .img-head {
-    width: 1000px; /* 100% or 1000px */
+    width: 2000px; /* 100% or 2000px */
     background-color: #333;
     margin: 10px auto;
 }
